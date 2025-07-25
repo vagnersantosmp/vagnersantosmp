@@ -1,7 +1,13 @@
-# 👋 Olá! Eu sou o Vagner Andrade dos Santos
+Bem vindos ao meu Perfil
+Me chamo Vagner Santos, 
+Sou um Analista de Dados com sólida experiência em processos e 18 anos de atuação no varejo. Atualmente, tenho me dedicado ao desenvolvimento de soluções baseadas em dados, com foco em:
 
-🔧 Analista de Dados com experiência em Power BI, Python, SQL, ETL, Git, GitHub e 18 anos no varejo.  
-🎯 Estou sempre aprendendo para contribuir cada vez mais com o time e o negócio.
+- 📊 **Análise e Visualização de Dados** com Power BI e Python
+- 🧠 **Integração e Modelagem de Dados** com SQL, ETL, APIs e automações
+- 💻 **Desenvolvimento de Projetos Back-End**, utilizando Python e bancos de dados relacionais e não relacionais
+- 🔁 **Controle de Versão com Git/GitHub**, seguindo boas práticas de versionamento
+
+🎯 Estou em constante evolução, buscando aprimorar minhas habilidades técnicas e contribuir ativamente com resultados eficientes para as equipes e projetos dos quais faço parte.
 
 ---
 
