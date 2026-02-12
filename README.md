@@ -45,4 +45,15 @@
 </p>
 <br/>
 ##Estatisticas
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vagnersantosmp&show_icons=true).
+## 📊 Estatísticas
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=vagnersantosmp&show_icons=true&include_all_commits=true&count_private=true&theme=dark&hide_border=true&cache_seconds=1800" alt="GitHub stats" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vagnersantosmp&layout=compact&theme=dark&hide_border=true&langs_count=8&cache_seconds=1800" alt="Top languages" />
+</p>
+
+<!-- Fallback: se o Top Langs falhar, este costuma aparecer -->
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=vagnersantosmp&theme=github_dark" alt="Most commit language" />
+</p>
+
