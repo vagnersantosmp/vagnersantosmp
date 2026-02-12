@@ -43,3 +43,6 @@
 <p align="center">
   <sub>✨ Obrigado por visitar meu perfil!</sub>
 </p>
+<br/>
+##Estatisticas
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vagnersantosmp&show_icons=true)
