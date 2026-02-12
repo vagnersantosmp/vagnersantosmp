@@ -1,70 +1,44 @@
-<!-- =======================
-   PERFIL - VAGNER SANTOS
-   Clean • Minimal • Profissional
-======================= -->
-
 <h1 align="center">Vagner Santos</h1>
 <p align="center">
-  Analista de Dados • Automação • Power BI • Python • SQL
+  Analista de Dados • Power BI • Python • SQL • Automação
 </p>
 
 <p align="center">
-  <a href="https://github.com/vagnersantosmp">
-    <img src="https://komarev.com/ghpvc/?username=vagnersantosmp&style=flat&color=0e75b6" alt="Profile views"/>
-  </a>
+  <img src="https://komarev.com/ghpvc/?username=vagnersantosmp&style=flat&color=0e75b6" alt="views"/>
 </p>
 
 ---
 
-## 👨‍💻 Sobre mim
+## 🧰 Tecnologias (badges)
 
-Sou **Analista de Dados** com sólida experiência em processos e **18 anos de atuação no varejo**.  
-Atualmente, desenvolvo soluções orientadas a dados com foco em **insights, automações e performance**.
-
-**Áreas de atuação:**
-- 📊 Power BI + Python (análise e visualização)
-- 🧠 SQL + ETL + APIs (integração e modelagem)
-- 💻 Back-end com Python (relacionais e NoSQL)
-- 🔁 Git/GitHub (boas práticas e versionamento)
-
----
-
-## 📌 Tech Stack
-
-<p>
-  <img src="https://img.shields.io/badge/Python-111827?style=for-the-badge&logo=python&logoColor=FFD43B" />
-  <img src="https://img.shields.io/badge/Power%20BI-111827?style=for-the-badge&logo=powerbi&logoColor=F2C811" />
-  <img src="https://img.shields.io/badge/SQL-111827?style=for-the-badge&logo=mysql&logoColor=4479A1" />
-  <img src="https://img.shields.io/badge/Git-111827?style=for-the-badge&logo=git&logoColor=F05032" />
-  <img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=ffffff" />
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-111827?style=for-the-badge&logo=python&logoColor=FFD43B" alt="Python" />
+  <img src="https://img.shields.io/badge/Power%20BI-111827?style=for-the-badge&logo=powerbi&logoColor=F2C811" alt="Power BI" />
+  <img src="https://img.shields.io/badge/SQL-111827?style=for-the-badge&logo=mysql&logoColor=4479A1" alt="SQL" />
+  <img src="https://img.shields.io/badge/Git-111827?style=for-the-badge&logo=git&logoColor=F05032" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=ffffff" alt="GitHub" />
 </p>
 
 ---
 
-## 📈 Estatísticas do GitHub
+## 📊 Estatísticas (inclui “tecnologias mais usadas”)
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=vagnersantosmp&show_icons=true&hide_title=true&include_all_commits=true&count_private=true&theme=github_dark&rank_icon=github" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vagnersantosmp&layout=compact&hide_title=true&theme=github_dark" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=vagnersantosmp&show_icons=true&include_all_commits=true&count_private=true&theme=dark&hide_border=true" alt="GitHub stats" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vagnersantosmp&layout=compact&theme=dark&hide_border=true&langs_count=8" alt="Top languages" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=vagnersantosmp&theme=github-dark&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=vagnersantosmp&theme=dark&hide_border=true" alt="GitHub streak" />
 </p>
 
 <details>
-  <summary><b>📊 Ver gráfico de atividades</b></summary>
+  <summary><b>📈 Ver gráfico de atividades</b></summary>
   <br/>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vagnersantosmp&theme=github-compact&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vagnersantosmp&theme=github-compact&hide_border=true" alt="Activity graph" />
 </details>
 
 ---
-
-## 🤝 Vamos conectar?
-
-<p>
-  Se você curte automação, dados e soluções práticas, bora trocar ideia.
-</p>
 
 <p align="center">
   <sub>✨ Obrigado por visitar meu perfil!</sub>
