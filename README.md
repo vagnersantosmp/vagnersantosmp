@@ -24,7 +24,8 @@ Sou um Analista de Dados com sólida experiência em processos e 18 anos de atua
 ---
 
 ## 🚀 Tecnologias
-![Top Langs] (https://github-readme-stats.vercel.app/api/top-langs/?username=vagnersantosmp&layout=compact).
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact)
+
 
 ![Python](https://img.shields.io/badge/-Python-333?style=flat&logo=python)
 ![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black)
