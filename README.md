@@ -2,7 +2,76 @@
 <p align="center">
   Analista de Dados • Power BI • Python • SQL • Automação
 </p>
+# 👋 Olá! Eu sou Vagner Santos
 
+Sou **Analista de Dados** e **Desenvolvedor Full Stack (Python + Web)**, com forte foco em **automação** e **soluções de IA aplicadas ao negócio**. Tenho **18 anos de experiência no varejo**, atuando com processos, infraestrutura e melhoria contínua — e hoje uso dados e tecnologia para transformar rotinas em **decisões e resultados**.
+
+---
+
+## 🚀 O que eu faço (na prática)
+
+- 📊 **Dashboards e KPIs** (Power BI / modelagem / performance / DAX)
+- 🧩 **Integração e modelagem de dados** (SQL, APIs, bancos relacionais e não relacionais)
+- 🔁 **ETL e automações** (Python, n8n, rotinas, integrações com serviços)
+- 🤖 **Agentes de IA e RAG** (bases de conhecimento com documentos, atendimento e consultas inteligentes)
+- 🧱 **Projetos Full Stack** (APIs, back-end, front-end e deploy)
+
+---
+
+## 🧠 Tecnologias & Ferramentas
+
+**Dados & BI**
+- Power BI, DAX, Power Query
+- SQL (PostgreSQL)
+- Python (pandas, automações, APIs)
+
+**Automação & Integrações**
+- n8n, Webhooks, APIs REST
+- Supabase (Auth, DB, Storage, RLS)
+
+**Dev & Produtos**
+- Git & GitHub
+- JavaScript / HTML / CSS
+- Deploy e ambientes (variáveis, logs, versionamento)
+
+---
+
+## 📌 Projetos (destaques do que estou construindo)
+
+- 🤖 **Assistentes e agentes IA** para atendimento, FAQ, rotinas e integrações
+- 📄 **Extração e transformação de PDFs** para relatórios e envios automatizados
+- 💰 **Oráculo financeiro pessoal** (dashboard + módulos: compras, despesas, carro etc.)
+- 🧠 **RAG com planilhas e documentos** para consultas rápidas e confiáveis
+
+> Estou sempre organizando os projetos de forma modular (front/back), pensando em **colaboração**, **escala** e **manutenibilidade**.
+
+---
+
+## 🎯 Em que eu acredito
+
+- Dados precisam virar **ação**
+- Automação existe para reduzir retrabalho e aumentar qualidade
+- IA é melhor quando é **rastreável**, **auditável** e conectada ao processo real
+
+---
+
+## 📈 GitHub Insights
+
+![Contador de visitas](https://komarev.com/ghpvc/?username=vagnersantosmp&color=blue)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=vagnersantosmp&show_icons=true&rank_icon=github)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vagnersantosmp&layout=compact)
+
+---
+
+## 📫 Vamos conversar?
+
+
+
+---
+
+⭐ Se algum repositório te ajudou, considere deixar uma **star**!
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=vagnersantosmp&style=flat&color=0e75b6" alt="views"/>
 </p>
